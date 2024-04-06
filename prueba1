@@ -1,0 +1,63 @@
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (master)
+$ git checkout -b rama1
+Switched to a new branch 'rama1'
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega alerta de mensaje enviado"
+[rama1 (root-commit) 89d74f4] Se agrega alerta de mensaje enviado
+ 1 file changed, 274 insertions(+)
+ create mode 100644 DESAFIOS CATA/Desafio prueba I/index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega al hacer click en que somos, se esconden las columnas"
+[rama1 786f262] Se agrega al hacer click en que somos, se esconden las columnas
+ 1 file changed, 40 insertions(+), 23 deletions(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agregar alerta de dirección a fb"
+[rama1 30c0759] Se agregar alerta de dirección a fb
+ 1 file changed, 1 insertion(+), 7 deletions(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega alerta de dirección a twitter"
+[rama1 df6dfcd] Se agrega alerta de dirección a twitter
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega alerta de dirección a linkedin"
+[rama1 211f755] Se agrega alerta de dirección a linkedin
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega dirección de Git Hub"
+[rama1 cb80f3f] Se agrega dirección de Git Hub
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git add index.html
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$ git commit -m "Se agrega fuente roboto"
+[rama1 bc8ff00] Se agrega fuente roboto
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+rzamo@Raimundo MINGW64 ~/OneDrive/Escritorio/DESAFIOS CATA/Desafio prueba I (rama1)
+$
